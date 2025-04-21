@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Chương trình giới thiệu bạn bè'
-sidebar_position: 8
+sidebar_position: 9
 ---
 
 # Chương trình giới thiệu bạn bè

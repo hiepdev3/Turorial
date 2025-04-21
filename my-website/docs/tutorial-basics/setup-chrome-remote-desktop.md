@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Hướng dẫn cài đặt Chrome Remote Desktop trên macOS'
-sidebar_position: 25
+sidebar_position: 26
 ---
 
 # Hướng dẫn cài đặt và sử dụng Chrome Remote Desktop trên macOS

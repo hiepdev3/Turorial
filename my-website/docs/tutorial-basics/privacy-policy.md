@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Chính sách bảo mật'
-sidebar_position: 10
+sidebar_position: 11
 ---
 
 # Chính sách bảo mật

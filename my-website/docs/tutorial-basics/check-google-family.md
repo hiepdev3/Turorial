@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Cách kiểm tra tài khoản Google đã tham gia Family chưa'
-sidebar_position: 20
+sidebar_position: 21
 ---
 
 # Cách kiểm tra tài khoản Google đã tham gia Family chưa

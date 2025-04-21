@@ -1,0 +1,59 @@
+.search-container {
+    position: relative;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #1976d2;
+    border-radius: 6px;
+    outline: none;
+    background-color: var(--input-background-color); /* Nền thay đổi theo theme */
+    color: var(--input-text-color); /* Màu chữ thay đổi theo theme */
+  }
+  
+  .suggestions-list {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    max-height: 200px;
+    overflow-y: auto;
+    background-color: var(--suggestion-background-color);;
+    border: 1px solid #ccc;
+    border-top: none;
+    border-radius: 0 0 6px 6px;
+    z-index: 10;
+    list-style-type: none; /* Loại bỏ dấu chấm đen */
+    padding: 0; /* Loại bỏ khoảng cách thừa */
+    margin: 0; /* Loại bỏ khoảng cách thừa */
+  }
+  
+  .suggestions-list li {
+    padding: 10px;
+    cursor: pointer;
+    color: var(--suggestion-text-color); /* Màu chữ thay đổi theo theme */
+
+  }
+  
+  .suggestions-list li:hover {
+    background-color: #f0f0f0;
+  }
+  
+
+  :root {
+    --input-background-color: white;
+    --input-text-color: black;
+    --suggestion-background-color: white;
+    --suggestion-text-color: black;
+  }
+  
+  [data-theme='dark'] {
+    --input-background-color: black;
+    --input-text-color: white;
+    --suggestion-background-color: #333;
+    --suggestion-text-color: white;
+  }

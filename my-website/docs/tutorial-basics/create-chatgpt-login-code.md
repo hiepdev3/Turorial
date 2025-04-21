@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Hướng dẫn tạo mã đăng nhập ChatGPT'
-sidebar_position: 11
+sidebar_position: 12
 ---
 
 # Hướng dẫn tạo mã đăng nhập ChatGPT

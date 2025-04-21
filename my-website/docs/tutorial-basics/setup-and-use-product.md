@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Hướng dẫn cài đặt và sử dụng sản phẩm'
-sidebar_position: 20
+sidebar_position: 21
 ---
 
 # Hướng dẫn cài đặt và sử dụng sản phẩm

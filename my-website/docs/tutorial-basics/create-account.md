@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Hướng dẫn tạo tài khoản'
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Hướng dẫn tạo tài khoản

@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Chính sách VIP'
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 # Chính sách VIP

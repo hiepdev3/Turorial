@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Hướng dẫn mua hàng siêu tốc'
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Hướng dẫn mua hàng siêu tốc không cần tài khoản

@@ -39,7 +39,8 @@ const sidebars = {
       label: 'Hướng dẫn cơ bản',
       items: [
        // 'intro', // Tài liệu "intro.md" nằm trong thư mục "docs"
-       'tutorial-basics/create-account',
+        'tutorial-basics/documentation-user-guide',
+        'tutorial-basics/create-account',
         'tutorial-basics/deposit-money',
         'tutorial-basics/payment-guide',
         'tutorial-basics/quick-buy',

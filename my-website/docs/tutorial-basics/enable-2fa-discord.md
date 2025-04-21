@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Hướng dẫn bật xác thực 2 lớp trên Discord'
-sidebar_position: 14
+sidebar_position: 15
 ---
 
 # Hướng dẫn bật xác thực 2 lớp trên Discord

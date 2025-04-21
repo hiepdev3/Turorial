@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Hướng dẫn thanh toán'
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Hướng dẫn thanh toán

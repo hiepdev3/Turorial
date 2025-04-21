@@ -42,10 +42,12 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
+          //sidebarPath: './sidebars.js',
+          sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/', // Đặt tài liệu làm trang chủ tại http://localhost:3000/
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-         // editUrl:
+           // editUrl:
            // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
@@ -88,6 +90,7 @@ const config = {
             position: 'left',
             label: 'Hướng dẫn sử dụng',
           },
+         
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
@@ -147,7 +150,7 @@ const config = {
                       <path fill="url(#Ld6sqrtcxMyckEl6xeDdMa_uLWV5A9vXIPu_gr1)" d="M24,4C12.954,4,4,12.954,4,24s8.954,20,20,20s20-8.954,20-20S35.046,4,24,4z"></path>
                       <path fill="#fff" d="M26.707,29.301h5.176l0.813-5.258h-5.989v-2.874c0-2.184,0.714-4.121,2.757-4.121h3.283V12.46 c-0.577-0.078-1.797-0.248-4.102-0.248c-4.814,0-7.636,2.542-7.636,8.334v3.498H16.06v5.258h4.948v14.452 C21.988,43.9,22.981,44,24,44c0.921,0,1.82-0.084,2.707-0.204V29.301z"></path>
                   </svg> 
-                  <a href="https://www.facebook.com/people/Savina-Shop-Th%E1%BA%BF-Gi%E1%BB%9Di-Gi%E1%BA%A3i-Tr%C3%AD/61573657606149/" 
+                  <a href="https://www.facebook.com/people/Savina-Shop-Th%E1%BA%BF-Gi%E1%BB%9Bi-Gi%E1%BA%A3i-Tr%C3%AD/61573657606149/" 
                     target="_blank" 
                     style="text-decoration: none; color: inherit; transition: color 0.3s;" 
                     onmouseover="this.style.color='#007bff';" 

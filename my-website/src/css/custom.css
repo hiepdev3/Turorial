@@ -31,3 +31,30 @@
 /* .hero__title {
   color: #ff0000 !important; /* Màu đỏ 
 } */
+/* .hero hero--primary heroBanner_qdFl{
+  background-color: #aa812e !important; /* Màu xanh lá *
+  color: #ffffff !important; /* Màu trắng
+} */
+
+
+
+/* Tùy chỉnh sidebar bên phải */
+.toc {
+  position: fixed;
+  top: 100px;
+  right: 20px;
+  width: 250px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.toc a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}

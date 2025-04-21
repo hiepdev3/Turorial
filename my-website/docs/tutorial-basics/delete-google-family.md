@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Hướng dẫn xóa Family Google khi có thành viên dưới 15 tuổi'
-sidebar_position: 18
+sidebar_position: 19
 ---
 
 # Hướng dẫn xóa Family Google khi có thành viên dưới 15 tuổi

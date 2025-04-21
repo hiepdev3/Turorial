@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Hướng dẫn chuyển thiết kế Canva'
-sidebar_position: 26
+sidebar_position: 27
 ---
 
 # Hướng dẫn chuyển thiết kế Canva

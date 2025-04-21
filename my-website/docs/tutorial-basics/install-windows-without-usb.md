@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Hướng dẫn cài đặt Windows không cần USB'
-sidebar_position: 28
+sidebar_position: 29
 ---
 
 # Hướng dẫn cài đặt Windows không cần USB

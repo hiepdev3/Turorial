@@ -36,10 +36,17 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'category',
+      label: 'Hướng dẫn sử dụng tài liệu',
+      items: [
+        'huong-dan-su-dung-tai-lieu/index', // Đường dẫn đến file Markdown
+      ],
+    },
+    {
+      type: 'category',
       label: 'Hướng dẫn cơ bản',
       items: [
        // 'intro', // Tài liệu "intro.md" nằm trong thư mục "docs"
-        'tutorial-basics/documentation-user-guide',
+       // 'tutorial-basics/documentation-user-guide',
         'tutorial-basics/create-account',
         'tutorial-basics/deposit-money',
         'tutorial-basics/payment-guide',

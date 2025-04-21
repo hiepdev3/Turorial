@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './SearchBar.css'; // 👈 bạn tạo file này để viết CSS riêng
 
 const options = {
-  'Hướng dẫn =sử dụng tài liệu': '/tutorial-basics/documentation-user-guide',
+  'Hướng dẫn sử dụng tài liệu': '/',
   'Hướng dẫn tạo tài khoản': '/tutorial-basics/create-account',
   'Hướng dẫn nạp tiền': '/tutorial-basics/deposit-money',
   'Hướng dẫn thanh toán': '/tutorial-basics/payment-guide',
